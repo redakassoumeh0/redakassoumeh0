@@ -27,19 +27,19 @@ HTML | CSS | Bootstrap | Tailwind | Express.js | PHP | Git | CapRover | Docker (
   > ERP-style system to manage suppliers, employees, accounts, and more  
   `React · Next.js · MongoDB · Bootstrap · CapRover`
 
-- 📦 [Speed Whats Plus](#)
+- 📦 [Speed Whats Plus](https://github.com/redakassoumeh0/speed-whats-plus-overview)
   > Web-based WhatsApp messaging tool with automation and integration  
   `Next.js · Node.js · MongoDB`
 
-- 🧩 [Speed Whats - Chrome Extension](#)
+- 🧩 [Speed Whats - Chrome Extension](https://github.com/redakassoumeh0/speed-whats-overview)
   > Mass WhatsApp sender with media support  
   `Chrome Extension API · Laravel · MySQL`
 
-- ⚖️ [Qadaey Lawyer Website](#)
+- ⚖️ [Qadaey Lawyer Website](https://github.com/redakassoumeh0/qadaey-lawyer-website-overview)
   > Bilingual responsive site for a law firm  
   `Laravel · Bootstrap · JavaScript · MySQL`
 
-- 🌐 [Speed Marketing Website](#)
+- 🌐 [Speed Marketing Website](https://github.com/redakassoumeh0/speed-marketing-website-overview)
   > Official agency site with CMS and SEO-friendly features  
   `Laravel · Blade · Bootstrap`
 

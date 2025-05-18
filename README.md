@@ -6,8 +6,10 @@
 🌍 From: Syria  
 🎓 Currently studying Software Engineering @ Al-Sham Private University (Since 2024)  
 💻 2+ years experience building real-world full-stack systems  
-📬 Contact me: redakassoumeh1@gmail.com  
-📱 WhatsApp: +963 992 962 532  
+📱 WhatsApp: [+963 992 962 532](https://wa.me/963992962532)
+📧 Email: [redakassoumeh1@gmail.com](mailto:redakassoumeh1@gmail.com)
+🌍 [Portfolio](https://redakassoumeh.vercel.app)
+💼 [LinkedIn](https://www.linkedin.com/in/redakassoumeh/)
 
 ---
 
@@ -50,10 +52,3 @@ HTML | CSS | Bootstrap | Tailwind | Express.js | PHP | Git | CapRover | Docker (
 - 🌐 Multilingual UI support
 - 🚀 End-to-end development from concept to deployment
 
----
-
-### 🔗 Let’s Connect
-
-- 📧 Email: [redakassoumeh1@gmail.com](mailto:redakassoumeh1@gmail.com)
-- 💼 LinkedIn: [Reda Kassoumeh](https://www.linkedin.com/in/redakassoumeh/)
-- 🌍 Portfolio: [Reda Kassoumeh Portfolio](https://redakassoumeh.vercel.app)

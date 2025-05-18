@@ -6,8 +6,8 @@
 🌍 From: Syria  
 🎓 Currently studying Software Engineering @ Al-Sham Private University (Since 2024)  
 💻 2+ years experience building real-world full-stack systems  
-📱 WhatsApp: [+963 992 962 532](https://wa.me/963992962532)
-📧 Email: [redakassoumeh1@gmail.com](mailto:redakassoumeh1@gmail.com)
+📱 [+963 992 962 532](https://wa.me/963992962532)
+📧 [redakassoumeh1@gmail.com](mailto:redakassoumeh1@gmail.com)
 🌍 [Portfolio](https://redakassoumeh.vercel.app)
 💼 [LinkedIn](https://www.linkedin.com/in/redakassoumeh/)
 

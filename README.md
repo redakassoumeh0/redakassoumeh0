@@ -23,7 +23,7 @@ HTML | CSS | Bootstrap | Tailwind | Express.js | PHP | Git | CapRover | Docker (
 
 ### 🚀 Highlight Projects
 
-- 🔧 [ALABUO Steel Management System](#)
+- 🔧 [ALABUO Steel Management System](https://github.com/redakassoumeh0/alabuo-steel-management-system-overview)
   > ERP-style system to manage suppliers, employees, accounts, and more  
   `React · Next.js · MongoDB · Bootstrap · CapRover`
 

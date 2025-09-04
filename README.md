@@ -16,7 +16,7 @@
 ### 🧰 Tech Stack & Tools
 ```bash
 JavaScript | TypeScript | React | Next.js | Node.js | MongoDB | MySQL | Laravel  
-HTML | CSS | Bootstrap | Tailwind | Express.js | PHP | Git | CapRover | Docker (basic)
+HTML | CSS | Bootstrap | Tailwind | Express.js | PHP | Git  | Docker
 ```
 
 ---
